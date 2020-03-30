@@ -69,7 +69,7 @@ if (!empty($_SESSION['user']) && $user = user_info($_SESSION['user'])) {
 		</div>
 	</div>
 	<div class="modal-footer">
-		<button class="btn btn-primary" type="submit">Login</button>
+		<button class="btn btn-primary" type="submit">Logindddddddddddddddddddddddddddddddddddd</button>
 	</div>
 </form>
 <small class="muted pull-left" style="position:absolute;bottom:15px;left:15px;"> <br>Guest: <?=$_SERVER['REMOTE_ADDR'] ?> <br>Time: <?=date('d/m/Y') ?></small>
